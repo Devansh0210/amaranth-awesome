@@ -15,7 +15,6 @@ Core Amaranth components
 Active Projects 
 ===============
 
-<<<<<<< HEAD
  - [Minerva](https://github.com/minerva-cpu/minerva): is a CPU core that implements the [RISC-V](https://riscv.org/specifications/) RV32IMZicsr instruction set built by the maintainer of Amaranth SoC.
  - [Coreblocks](https://kuznia-rdzeni.github.io/coreblocks): is an experimental, modular out-of-order [RISC-V](https://riscv.org/specifications/) core generator implemented in Amaranth.
  - [Glasgow](https://glasgow-embedded.org/): Glasgow Interface Explorer is a tool for exploring digital interfaces
@@ -45,7 +44,8 @@ Active Projects
  - [Niar](https://github.com/charlottia/niar): A small framework for building projects with Amaranth and supporting CXXRTL, Zig, and zxxrtl.
  - [patina](https://github.com/zignig/patina): A minimal Rust framework for RISC-V FPGA control plane development.
  - [pytest-amaranth-sim](https://github.com/cr1901/pytest-amaranth-sim): A pytest plugin to automate running Amaranth simulations with easy setup and VCD generation.
- - [maia-sdr](https://github.com/maia-sdr/maia-sdr) Maia SDR is an open-source FPGA-based SDR project focusing on the ADALM Pluto. It uses Amaranth-HDL for many DSP Blocks
+ - [maia-sdr](https://github.com/maia-sdr/maia-sdr) Maia SDR is an open-source FPGA-based SDR project focusing on the ADALM Pluto. It uses Amaranth-HDL for many DSP Blocks.
+ - [Cynthion](https://github.com/antoinevg/cynthion): An all-in-one tool for building, testing, and experimenting with USB devices using a customizable FPGA-based architecture.
 
 Companies using Amaranth
 ========================
